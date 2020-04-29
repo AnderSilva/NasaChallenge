@@ -1,7 +1,7 @@
 ﻿
 # Desafio Nasa
 
-|Author: |  Anderson Silva Parizoto |
+|Autor: |  Anderson Silva Parizoto |
 | ------------ | ------------ |
 |Última atualização:|  29/04/2020 |
 

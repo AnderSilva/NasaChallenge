@@ -58,5 +58,3 @@ _Agrupamento das chaves compostas._
 counts.saveASTextFile("hdfs://...")                     
 ```
 _Salva o resultado transformado em arquivo texto no hdfs_
-
-### Exemplo Prático de I/O:
