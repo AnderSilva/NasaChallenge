@@ -1,7 +1,7 @@
 ﻿
 # Desafio Nasa
 
-|Candidato: |  Anderson Silva Parizoto |
+|Author: |  Anderson Silva Parizoto |
 | ------------ | ------------ |
 |Última atualização:|  29/04/2020 |
 
